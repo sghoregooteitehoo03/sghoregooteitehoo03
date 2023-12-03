@@ -15,9 +15,8 @@
 업데이트 예정
 
 ### 기술
-![Kotlin](https://img.shields.io/badge/Kotlin-★★★★☆-orange)
-- [![Android](https://img.shields.io/badge/Android-Developer-brightgreen)]
-- [![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-blue)](링크)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
 
 <!--
