@@ -5,7 +5,7 @@
 
 
 ## 📱 서비스
-### [[침투브 월드]](https://play.google.com/store/apps/details?id=com.sghore.chimtubeworld&hl=ko-KR)   <img src='https://github.com/sghoregooteitehoo03/ChimtubeWorld/blob/master/image/logo.png' height="35"/>  
+### [[침투브 월드]](https://play.google.com/store/apps/details?id=com.sghore.chimtubeworld&hl=ko-KR)   <img src='https://github.com/sghoregooteitehoo03/ChimtubeWorld/blob/master/image/logo.png' height="22"/>  
 . 침착맨님의 모든 콘텐츠를 한 곳에서 쉽고 편하게 무한으로 즐겨보세요!  
 
         
