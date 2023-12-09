@@ -17,7 +17,7 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://devdevdevp.tistory.com/)
 
 
-## 🛠️ Skils & Tool
+## 🛠️ Skills & Tool
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=circle&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=circle&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Android-3DDC84?style=circle&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=circle&logo=jetpackcompose&logoColor=white"/>
 
 
