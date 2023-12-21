@@ -9,7 +9,7 @@
 . 침착맨님의 모든 콘텐츠를 한 곳에서 쉽고 편하게 무한으로 즐겨보세요!  
 
         
-### [[드로우 어시스턴트]](https://play.google.com/store/apps/details?id=com.nikealarm.nikedrawalarm)  
+### [[스니커즈 어시스턴트]](https://play.google.com/store/apps/details?id=com.nikealarm.nikedrawalarm)  
 . 스니커즈의 정보들을 손쉽게 얻을 수 있도록 도와드리겠습니다.
 
 
