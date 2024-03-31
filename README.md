@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=circle&logo=androidstudio&logoColor=white"/>
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sghoregooteitehoo03)](https://solved.ac/sghoregooteitehoo03)
+
 
 <!--
 **sghoregooteitehoo03/sghoregooteitehoo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
