@@ -12,6 +12,9 @@
 ### [[스니커즈 어시스턴트]](https://play.google.com/store/apps/details?id=com.nikealarm.nikedrawalarm)        <img src='https://github.com/sghoregooteitehoo03/NikeDrawAlarm/blob/master/image/app_logo_v2.png' height="22"/>
 . 스니커즈의 정보들을 손쉽게 얻을 수 있도록 도와드리겠습니다.
 
+### [[스니커즈 어시스턴트]](https://play.google.com/store/apps/details?id=com.sghore.needtalk)        <img src='https://github.com/sghoregooteitehoo03/NeedTalk/blob/main/image/app_logo.png' height="22"/>
+. 휴대폰은 잠시 내려놓고, 서로간의 대화에만 집중 해보세요!
+
 
 ## 💻 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://devdevdevp.tistory.com/)
